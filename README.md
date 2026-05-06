@@ -11,15 +11,15 @@ The goal of this project was to validate API functionality, data integrity, and 
     <li><a href="http://users.bugred.ru/tasks/soap/WrapperSoapServer.php?wsdl">Users Bugred SOAP Service</a></li>
 </ol>
 
-#### Included Artifacts
-> <strong>REST API (Petstore):</strong>
+> #### Included Artifacts
+<strong>REST API (Petstore):</strong>
 <ul>
     <li><a href="https://drive.google.com/file/d/1zZD6gVWsdzWzwR6T-4E2zoBuqPrBxV_r/view?usp=sharing">Test Cases (Petstore)</a>. Covers CRUD operations, validation, and negative scenarios.</li>
     <li><a href="https://drive.google.com/file/d/1dLr6XgsbJSVCH-S9_-Nk7WttNOSGfN7u/view?usp=sharing">Test Report (Test IT)</a>. Execution results and defect tracking.</li>
     <li><a href="https://www.postman.com/olehsobol/workspace/personal-workspace/collection/46557110-0c03d0c9-3fa7-481f-a277-420921ea972b">Postman Collection</a></li>
 </ul>
 
-> <strong>SOAP API:</strong>
+<strong>SOAP API:</strong>
 
 *Country Info Service*
 <ul>
@@ -32,6 +32,6 @@ The goal of this project was to validate API functionality, data integrity, and 
     <li><a href="https://www.postman.com/olehsobol/workspace/personal-workspace/collection/46557110-e61be34e-c1ee-4676-aebd-59caeaf1a997?action=share\&creator=46557110">Postman Collection</a></li>
 </ul>
 
-> <strong>Additional Setup</strong>
+<strong>Additional Setup</strong>
 - Petstore was deployed locally using Docker (<a href="https://drive.google.com/file/d/1qvKBMPWhVbHAjnMfQCi1f7wI5EpD7gzI/view?usp=sharing">docker-compose.yml</a>)
 - SOAP requests tested via Postman using WSDL schemas
