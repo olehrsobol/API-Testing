@@ -4,7 +4,7 @@ This repository contains API testing artifacts for *REST* and *SOAP* services, i
 
 The goal of this project was to validate API functionality, data integrity, and response behavior using different types of APIs.
 
-<strong>Tested APIs:</strong>
+> <strong>Tested APIs:</strong>
 <ol>
     <li><a href="https://petstore3.swagger.io/">Swagger Petstore (OpenAPI 3.0)</a></li>
     <li><a href="http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL">Country Info SOAP Service</a></li>
